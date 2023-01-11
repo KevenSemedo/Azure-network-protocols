@@ -114,7 +114,7 @@ It will receive non-stop packet requests until you cancel it.  To cancel the pin
 <br />
 
 <p>
-<img src="https://i.imgur.com/UiJhzQd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/inZ5l9P.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the Microsoft Azure portal open Network Security Group on your VM2  to initiate a perpetual/non-stop ping from your Windows 10 virtual machine to your Ubuntu VM.
@@ -130,7 +130,7 @@ In your Windows 10 virtual machine, observe the ICMP traffic in WireShark and th
 <br />
 
 <p>
-<img src="https://i.imgur.com/bI7IifN.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hwWCQ5d.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Microsoft Azure network security group settings. Select your deny ICMP settings and allow ICMP traffic to resume. 
