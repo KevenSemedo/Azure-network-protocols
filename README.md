@@ -76,7 +76,7 @@ Use the Remote Destkop Windows 10 Virtual Machine. Use Wireshark to filter traff
 <br />
 
 <p>
-<img src="https://i.imgur.com/exO4wSd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JKXLcRX.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Retrieve the private IP address of the Linux (Ubuntu) virtual machine and attepmt to ping it in the Windows 10 virtual machine.
